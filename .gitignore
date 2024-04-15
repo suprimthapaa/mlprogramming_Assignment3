@@ -1,3 +1,2 @@
-./annotations
-./val2014
-./val2014/val2014/*
+./val2017/val2017
+./annotations_trainval2017/annotations/
